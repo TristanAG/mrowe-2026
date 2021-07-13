@@ -19,7 +19,7 @@ const Header = ({ siteTitle }) => (
         </h1> */}
 
     </header>
-    <div class="container" id="header-content">
+    <div className="container" id="header-content">
       <span id="name">
         <h3>Marianne B. Rowe, MS</h3>
         <h4>Marriage & Family Therapist</h4>

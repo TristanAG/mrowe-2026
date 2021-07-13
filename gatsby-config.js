@@ -36,8 +36,7 @@ module.exports = {
         fonts: [
           `Sorts Mill Goudy`,
           `serif`
-        ],
-        display: 'swap'
+        ]
       }
     }
     // this (optional) plugin enables Progressive Web App + Offline functionality
