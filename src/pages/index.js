@@ -8,7 +8,8 @@ import Seo from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <Seo title="Home" />
-    <h1>July 13th 2022: Site is under construction and will be back soon!</h1>
+    <h1>July 13th 2022: </h1>
+    <p>Site is under construction and will be back soon in 24-48 hours!</p>
 
               {/* <p class="tagline">
                 Offering Psychotherapy in Monterey County, CA for Over 35 Years<br/>

@@ -34,7 +34,7 @@ const Layout = ({ children }) => {
           <div class="row">
             <div class="three columns">
               <aside>
-                <div id="nav-unfixed">
+                {/* <div id="nav-unfixed">
                   <ul>
                     <li><a href="http://www.mariannerowe.net/">Home</a></li>
                     <li><a href="services-and-specialties">Services and Specialties</a></li>
@@ -45,7 +45,7 @@ const Layout = ({ children }) => {
                     <li><a href="contact">Contact</a></li>
                     <li><a href="faqs">FAQs</a></li>
                   </ul>
-                </div>
+                </div> */}
 
                 {/* <div id="nav-fixed">
                   <ul>
