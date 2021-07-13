@@ -8,21 +8,93 @@ import Seo from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <Seo title="Home" />
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <StaticImage
+    <h1>July 13th 2022: Site is under construction and will be back soon!</h1>
+
+              {/* <p class="tagline">
+                Offering Psychotherapy in Monterey County, CA for Over 35 Years<br/>
+              	Since 2020, all sessions are: Zoom, Phone, or Outdoors
+
+              </p> */}
+
+              {/* <p class="tagline"><i>"Nothing opens up the mind like
+                the glimpse of new possibility."</i><br />
+                John O'Donohue
+              </p> */}
+
+              {/* <p class="divider">~</p> */}
+
+              <p style={{height: '500px'}}></p>
+
+              {/* <p>
+                Life can seem overwhelming at times. Feeling stressed,
+                disconnected, anxious, angry, or depressed is an emotional
+                signal that something needs tending. These signals often
+                show up during life transitions, when what used to work
+                is no longer effective -- when a new stage is ready to
+                emerge in a person or relationship.
+              </p>
+
+              <p class="tagline">
+                <i>"And the day came that the risk to remain tight in a bud<br />
+                  was more painful than the risk it took to blossom."</i>
+                <br />
+                Anais Nin
+              </p>
+
+              <p class="divider">~</p>
+
+              <p>
+                Psychotherapy is a process of two people consciously collaborating
+                for the well-being of one.
+                Here, an atmosphere is established that supports
+                and facilitates awareness and growth,
+                where understanding is gained through inquiry and expanded perspective,
+                where compassion is generated through deeper sense of connection,
+                and where access to internal strengths, resources, and resilience
+                can be cultivated and sustained.
+              </p>
+
+              <p class="tagline">
+                <i>"Awareness is the greatest agent for change."</i>
+                <br />
+                Eckhart Tolle
+              </p>
+
+              <p class="divider">~</p>
+
+              <p>
+                Practical strategies that involve the body, mind and spirit are explored
+                to balance and integrate all aspects of being human.
+                Insights into patterns of relating to oneself and others can lead to
+                deep transformation and fulfillment of potential for health and well-being.
+                With mindful awareness of how thoughts, emotions
+                and the physical body work together and influence each other,
+                the path to making desired changes becomes clear and, ultimately, do-able.
+                As self-compassion is cultivated by developing a sense of spaciousness
+                and kindness with oneself, a relationship that promotes healing emerges.
+              </p>
+
+              <p class="tagline">
+                <i>"I would love to live as the river flows,
+                carried by the surprise of its own becoming."</i>
+                <br />
+                John O'Donohue
+              </p> */}
+
+
+
+    {/* <StaticImage
       src="../images/gatsby-astronaut.png"
       width={300}
       quality={95}
       formats={["AUTO", "WEBP", "AVIF"]}
       alt="A Gatsby astronaut"
       style={{ marginBottom: `1.45rem` }}
-    />
-    <p>
+    /> */}
+    {/* <p>
       <Link to="/page-2/">Go to page 2</Link> <br />
       <Link to="/using-typescript/">Go to "Using TypeScript"</Link>
-    </p>
+    </p> */}
   </Layout>
 )
 

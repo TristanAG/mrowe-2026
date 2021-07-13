@@ -47,7 +47,7 @@ const Layout = ({ children }) => {
                   </ul>
                 </div>
 
-                <div id="nav-fixed">
+                {/* <div id="nav-fixed">
                   <ul>
                     <li><a href="http://www.mariannerowe.net/">Home</a></li>
                     <li><a href="services-and-specialties">Services and Specialties</a></li>
@@ -59,7 +59,7 @@ const Layout = ({ children }) => {
                     <li><a href="faqs">FAQs</a></li>
 
                   </ul>
-                </div>
+                </div> */}
               </aside>
 
 
