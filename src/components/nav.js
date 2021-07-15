@@ -11,17 +11,17 @@ const Nav = () => (
         <NavList />
       </div>
 
-      <div id="nav-fixed">
+      <div id="nav-fixed" style={{'display':'none'}}>
         <NavList />
       </div>
     </aside>
 
-    <div id="nav-mobile">
+    <div id="nav-mobile" style={{'display':'none'}}>
       <center>
         <div id="menu-button">
           <hr />
           <span id="menu-button-button">MENU</span>
-          <div id="mobile-menu">
+          <div id="mobile-menu" >
             <NavList />
           </div>
           <hr />

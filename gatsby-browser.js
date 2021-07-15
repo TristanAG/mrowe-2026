@@ -8,7 +8,7 @@
 
 const $ = require("jquery")
 
-export const onInitialClientRender = () => {
+export const onRouteUpdate = () => {
   $(document).ready(function () {
     console.log("The answer is don't think about it!")
 

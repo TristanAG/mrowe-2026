@@ -4,7 +4,7 @@ import { Link } from "gatsby"
 
 const NavList = () => (
   <ul>
-    <li><a href="http://www.mariannerowe.net/">Home</a></li>
+    <li><Link to="/">Home</Link></li>
     <li><Link to="/services-and-specialties/">Services and Specialties</Link></li>
     <li><Link to="/about-marianne/">About Marianne</Link></li>
     <li><Link to="/fees-forms-and-insurance/">Fees, Forms, and Insurance</Link></li>
