@@ -133,7 +133,7 @@ main .divider {
 /* nav controls!!!! */
 #nav-fixed {
   position: fixed;
-  margin-top: -350px;
+  margin-top: -300px;
   overflow: hidden; }
 
 @media (max-width: 929px) {

@@ -1,0 +1,37 @@
+import * as React from "react"
+import { Link } from "gatsby"
+
+import Layout from "../components/layout"
+import Seo from "../components/seo"
+
+const QuestionsForReflection = () => (
+  <Layout>
+  <Seo title="Questions For Reflection" />
+
+  <h1>Questions for Reflection</h1>
+
+  <p>The following are some questions that may be helpful in clarifying
+  what wants to be addressed through a therapeutic process.
+  Good News/Bad News: It is helpful to keep in mind
+  that you can make changes in yourself,
+  not in someone else nor, many times,
+  in the circumstances that are triggering the distress.
+  The following questions may be helpful in identifying
+  the next steps that you can take.</p>
+
+  <p>What are the physical and emotional sensations that are signaling "pay attention here" (often, these signals are quite uncomfortable)?</p>
+
+  <p>What is the change that wants to emerge?</p>
+
+  <p>What patterns of thought or self-beliefs support this change?</p>
+
+  <p>What is the body position that supports this change (what would sitting/standing/walking look/feel like)?</p>
+
+  <p>How would things look/feel/sound/be different if this change was happening now?</p>
+
+  <p>What is the next obvious step to creating and cultivating this change?</p>
+
+  </Layout>
+)
+
+export default QuestionsForReflection

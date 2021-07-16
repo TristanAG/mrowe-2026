@@ -8,25 +8,22 @@ import Seo from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <Seo title="Home" />
-    <h1>July 13th 2022: </h1>
-    <p>Site is under construction and will be back soon in 24-48 hours!</p>
+    <h1>Welcome</h1>
 
-              {/* <p class="tagline">
+
+              <p class="tagline">
                 Offering Psychotherapy in Monterey County, CA for Over 35 Years<br/>
               	Since 2020, all sessions are: Zoom, Phone, or Outdoors
+              </p>
 
-              </p> */}
-
-              {/* <p class="tagline"><i>"Nothing opens up the mind like
+              <p class="tagline"><i>"Nothing opens up the mind like
                 the glimpse of new possibility."</i><br />
                 John O'Donohue
-              </p> */}
+              </p>
 
-              {/* <p class="divider">~</p> */}
+              <p class="divider">~</p>
 
-              <p style={{height: '500px'}}></p>
-
-              {/* <p>
+              <p>
                 Life can seem overwhelming at times. Feeling stressed,
                 disconnected, anxious, angry, or depressed is an emotional
                 signal that something needs tending. These signals often
@@ -80,7 +77,7 @@ const IndexPage = () => (
                 carried by the surprise of its own becoming."</i>
                 <br />
                 John O'Donohue
-              </p> */}
+              </p>
 
 
 
