@@ -32,7 +32,7 @@ const AboutMarianne = () => (
       <br />
     </i>
     – Marianne Rowe
-    
+
   </p>
 
   <center>
@@ -58,7 +58,7 @@ const AboutMarianne = () => (
 
   <p>
 
-  In 2016, Marianne co-founded Monterey Bay Meditation Studio, a culmination of a long-time dream of offering a space for cultivating awareness and community. Here, she develops and teaches courses, facilitates retreats, and offers consultation in developing mindful awareness and compassionate connection in personal and professional life. Her retreats engage meditation, creativity, and nature as conduits for connecting with self and the world.
+  In 2016, Marianne co-founded <a href="http://montereybaymeditation.com">Monterey Bay Meditation Studio</a>, a culmination of a long-time dream of offering a space for cultivating awareness and community. Here, she develops and teaches courses, facilitates retreats, and offers consultation in developing mindful awareness and compassionate connection in personal and professional life. Her retreats engage meditation, creativity, and nature as conduits for connecting with self and the world.
   </p>
   <p>
     Marianne was certified in 2018 as a Nature and Forest Therapy Guide by the Association for Nature and Forest Therapy. Since that time, she has been leading Forest Bathing sessions and numerous other outdoor healing and meditation practices. She created and continues teaching  a 9-month online course, “Being Outdoors: Sensing the Sacred,” that focuses on cultivating a relationship of reverence and reciprocity with Earth and all beings.

@@ -25,7 +25,7 @@ const CoursesRetreatsAndSpecialEvents = () => (
               </p>
 
               <p>
-                You can find a listing of Marianne’s current and upcoming offerings here: Monterey Bay Meditation Studio.
+                You can find a listing of Marianne’s current and upcoming offerings here: <a href="http://montereybaymeditation.com">Monterey Bay Meditation Studio</a>.
 
               </p>
 
