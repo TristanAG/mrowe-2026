@@ -1,9 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
-    siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+    title: `Marianne Rowe`,
+    description: `Marriage Counseling,Child Therapy,Family Therapy,Mindfulness Meditation
+      Instruction,in Monterey California`,
+    author: `@tristangruener`,
+    siteUrl: `http://www.mariannerowe.net/`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
