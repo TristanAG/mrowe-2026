@@ -23,7 +23,7 @@ const Footer = ({ siteTitle }) => (
 
         <div class="five columns last">
 
-          Marianne is a Founding Teacher of <a href="http://montereybaymeditation.com" target="_none">Monterey Bay Meditation Studio</a>
+          Marianne is a Founding Teacher of <br /><a href="http://montereybaymeditation.com" target="_none">Monterey Bay Meditation Studio</a>
 
         </div>
       </div>

@@ -10,7 +10,6 @@ const $ = require("jquery")
 
 export const onRouteUpdate = () => {
   $(document).ready(function () {
-    console.log("The answer is don't think about it!")
 
     var visible = false
     $( '#mobile-menu' ).hide()
@@ -34,15 +33,15 @@ export const onRouteUpdate = () => {
     var setState = function() {
       if(width >= 810){
         $('#nav-mobile').hide()
-        if(length > yPos && width > xPos){
-          //use the fixed sidebar state
-          $('#nav-unfixed').hide()
-          $('#nav-fixed').show()
-        } else {
+        // if(length > yPos && width > xPos){
+        //   //use the fixed sidebar state
+        //   $('#nav-unfixed').hide()
+        //   $('#nav-fixed').show()
+        // } else {
           //use the fluid sidebar state
           $('#nav-unfixed').show()
           $('#nav-fixed').hide()
-        }
+        // }
       } else {
         $('#nav-unfixed').hide()
         $('#nav-fixed').hide()
