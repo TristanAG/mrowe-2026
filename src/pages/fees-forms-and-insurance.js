@@ -1,11 +1,14 @@
 import * as React from "react"
 import { Link } from "gatsby"
 
-import ClientContactInformation from '../static/client_contact_information.pdf'
-import ClientInformationForm from '../static/client_information_form.pdf'
-import ClientsRightsAndResponsibilities from '../static/client_rights_and_responsibilities.pdf'
+import ClientContactInformation from '../static/ClientContactInformation2021.pdf'
+import ClientInformationForm from '../static/ClientInformationForm2021.pdf'
+import ClientsRightsAndResponsibilities from '../static/ClientRightsAndResponsibilities2021.pdf'
 import HealthInsuranceClaimForm from '../static/HCFA_1500_claim_form.pdf'
-import InsuranceCoverageChecklist from '../static/insurance_coverage_checklist.pdf'
+import InsuranceCoverageChecklist from '../static/InsuranceInformationChecklist2021.pdf'
+
+
+import LiabilityReleaseOutdoorTherapySessions from '../static/liability_release_outdoor_therapy_sessions.pdf'
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"

@@ -137,7 +137,7 @@ const ServicesAndSpecialties = () => (
     "Mindfulness can become the single greatest source of equilibrium and clarity in your life."</i><br /> -- Daniel Siegel, MD (UCLA psychiatrist & expert in Interpersonal Neurobiology)
     </p>
     <p>
-    For information about upcoming courses such as "Introduction to Mindfulness Meditation" or "Mindfulness as a Quality of Being: Working with Anxiety, Depression, & Anger," <a href="">click here</a>.
+    For information about upcoming courses such as "Introduction to Mindfulness Meditation" or "Mindfulness as a Quality of Being: Working with Anxiety, Depression, & Anger," <Link to="/courses-retreats-and-special-events/">click here</Link>.
     </p>
     <p>
       More offerings can be found at <a href="http://montereybaymeditation.com">Monterey Bay Meditation Studio</a>
