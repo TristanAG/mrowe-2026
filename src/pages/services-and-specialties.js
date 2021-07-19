@@ -84,12 +84,29 @@ const ServicesAndSpecialties = () => (
     </ul>
 
     <h2 id="clinical-orientation">Clinical Orientation</h2>
-    <ul>
-      <li>Transpersonal ~ Family Systems</li>
-      <li>Interpersonal Neurobiology ~ Contemplative ~ Integral</li>
-      <li>Cognitive-Behavioral</li>
+
+      <div class="three columns">
+        <ul>
+          <li>Transpersonal</li>
+          <li>Family Systems</li>
+        </ul>
+      </div>
+      <div class="three columns">
+        <ul>
+          <li>Interpersonal Neurobiology</li>
+          <li>Contemplative</li>
+          <li>Integral</li>
+        </ul>
+      </div>
+      <div class="three columns">
+        <ul>
+          <li>Cognitive-Behavioral</li>
+        </ul>
+      </div>
+
+      <div class="container" />
       <a href="#top">Back to top of page</a>
-    </ul>
+
     <br />
     <br />
 
@@ -120,7 +137,7 @@ const ServicesAndSpecialties = () => (
     "Mindfulness can become the single greatest source of equilibrium and clarity in your life."</i><br /> -- Daniel Siegel, MD (UCLA psychiatrist & expert in Interpersonal Neurobiology)
     </p>
     <p>
-    For information about upcoming courses such as "Introduction to Mindfulness Meditation" or "Mindfulness as a Quality of Being: Working with Anxiety, Depression, & Anger," click here.
+    For information about upcoming courses such as "Introduction to Mindfulness Meditation" or "Mindfulness as a Quality of Being: Working with Anxiety, Depression, & Anger," <a href="">click here</a>.
     </p>
     <p>
       More offerings can be found at <a href="http://montereybaymeditation.com">Monterey Bay Meditation Studio</a>
@@ -139,7 +156,7 @@ const ServicesAndSpecialties = () => (
     <p><i>“When stressed or overwhelmed, the immediate relief is always in the softening, and the surrendering. Your surrounding world already offers its medicine everywhere. Place your hands in the soil to feel grounded. Wade into water to feel cleansed and healed. Fill your lungs with fresh air to feel mentally clear. Raise your face to the heat of the sun to feel your own immense power. You are part of the earth, and comprised of the very same elements. And this is something you should remember.”</i> – Victoria Erickson</p>
 
     <p>Forest Bathing, Earthing, Sensory Awareness, and Mindfulness Meditation are a few of the  evidenced-based wellness-practices of Ecotherapy.
-      <br /><a href="#top">Back to top of page</a>
+      <br /><br /><a href="#top">Back to top of page</a>
     </p>
 
     <h2 id="mindful-relating">Mindful Relating</h2>
@@ -158,12 +175,7 @@ const ServicesAndSpecialties = () => (
 
     <p>She offers Mindful Relating courses, workshops and retreats throughout the year and facilitates Games and Team Building Practices with organizations and businesses.</p>
     <p>
-      <br /><a href="#top">Back to top of page</a>
-    </p>
-
-    <h2 id="teachers-trainers-and-sources-of-inspiration">Teachers, Trainers, and Sources of Inspiration</h2>
-    <p>
-      Therapy informed by the work and teachings of Don Beck, Thomas Berry, Pema Chodron, Decker Cunov, Earth and All Her Beings, Charles Eisenstein, Milton Erickson, Matthew Fox, Viktor Frankl, Howard Gardner, Daniel Goleman, Thich Nhat Hahn, Rick Hanson, Harville Hendrix, His Holiness the XIVth Dalai Lama, Carl Jung, Jon Kabat-Zinn, Byron Katie, Fr. Thomas Keating, Jack Kornfield, Elisabeth Kubler-Ross, Stephen Levine, Joanna Macy, Abraham Maslow, Caroline Myss, Carl Rogers, Theodore Roszak, Marshall Rosenberg, Selwa Said, Sharon Salzberg, Virginia Satir, Richard Schwartz, Martin Seligman, Francine Shapiro, Daniel Siegel, Brian Swimme, Eckhart Tolle, Carl Whitaker, & Ken Wilber, among others.
+      <a href="#top">Back to top of page</a>
     </p>
 
     <h2 id="thought-field-therapy">Thought Field Therapy</h2>
@@ -172,39 +184,20 @@ const ServicesAndSpecialties = () => (
     </p>
     <p>
       In a TFT session, the client is directed to gently tap specific points on the face, torso, and hands where the energies of specific emotions tend to be held. The sequence of the tapping is determined by the form of the emotional distress and is repeated until the distress is significantly reduced or gone. There is no focus on the "story" or cognitive elements of the sensation; the process is geared to re-balancing natural energy flow that has been interrupted by the specific emotional perturbation. The relaxation of emotional intensity is often quite rapid and surprising to the client. Once the energetic-emotional field is calm, shifts in cognitive beliefs, as well as other perceptions and patterns, can occur more easily.
-      <br /><a href="#top">Back to top of page</a>
+      <br /><br /><a href="#top">Back to top of page</a>
     </p>
 
     <h2 id="emdr">Eye Movement Desensitization & Reprocessing</h2>
-    <p>
-      Mindfulness Meditation is a method of training the mind to relax and simply notice what is happening in the present moment. Judgment, worry, and planning are suspended; and space for sensing peacefulness and well-being is opened. In the course of practicing this kind attentiveness to one's inner experiencing, there is a natural expansion of a deep sense of connection and compassion. The kindness that is developed in relationship with oneself begins to show up in relationship with others as well.
-    </p>
-    <p>
 
-    Research has shown that a sustained practice of Mindfulness Meditation:
-    <ul>
-       <li>Increases ability to focus and think clearly, even under stressful conditions</li>
-       <li>Decreases feelings of anxiety, stress, and depression</li>
-       <li>Improves physical health and performance</li>
-       <li>Enhances creativity</li>
-       <li>Expands compassion & feeling of connection within oneself & with others</li>
-     </ul>
-    </p>
+    <p>EMDR is a therapeutic technique that has been shown to be particularly effective in the treatment of post-traumatic stress. It has also been reported to be a part of successful treatment of panic attacks, anxiety, and disturbing memories. Similar to REM sleep, the eye back-and-forth eye movements (or bi-lateral audio or kinesthetic stimulation) of this therapeutic technique appear to facilitate the brain's natural processing systems to integrate events and intense emotions.</p>
+<p>In an EMDR session, the therapist and client work together to identify the specific physical sensations, thoughts and emotions that are associated with or causing the distress, along with any negative beliefs or perceptions that have been formed due to the event. Also identified is a desired, positive belief to replace the limiting, negative perception. Then, a series of eye movements, hand taps or audio signals are facilitated by the therapist with the request that the client simply notice what sensations or thoughts come to mind. There are brief check-in's as the material and its corollaries are processed and becomes less disturbing. Gradually, there is a shift in the client's internal perception towards integration and resolution of the self and the event.</p>
+<p>To determine if EMDR is an appropriate technique for a specific problem, the client and therapist meet for at least one consultation session prior to any EMDR sessions. If the client and therapist agree that EMDR would be a beneficial treatment or adjunct to "talk therapy," the EMDR sessions begin. The number of sessions required for the course of treatment depends on several factors including the complexity of the problem and its impact in the client's life.
+<br /><br /><a href="#top">Back to top of page</a>
+</p>
+
+    <h2 id="teachers-trainers-and-sources-of-inspiration">Teachers, Trainers, and Sources of Inspiration</h2>
     <p>
-    Mindful awareness of physical and emotional sensations can lead to insights of patterns and perceptions that directly affect the experience of whatever situations come to us. The tone and quality of attention that is given to internal and external events directly affects how those events are experienced. In addition, recent research suggests that a consistent practice of mindful awareness can influence neurological changes in the brain itself, changes that lead to greater integration of information and energy as we move through a day's, or a life's, events.
-    </p>
-    <p>
-    The positive effects of mindfulness meditation and mindful awareness are cumulative -- the more consistent and sustained the practice and implementation of these qualities into daily life, the greater the benefits. Establishing a practice of finding a peacefulness within, rather than basing one's sense of well-being on external circumstances, is particularly relevant in times of transition and uncertainty.
-    </p>
-    <p class="tagline"><i>
-    "Mindfulness can become the single greatest source of equilibrium and clarity in your life."</i><br /> -- Daniel Siegel, MD (UCLA psychiatrist & expert in Interpersonal Neurobiology)
-    </p>
-    <p>
-    For information about upcoming courses such as "Introduction to Mindfulness Meditation" or "Mindfulness as a Quality of Being: Working with Anxiety, Depression, & Anger," click here.
-    </p>
-    <p>
-      More offerings can be found at <a href="http://montereybaymeditation.com">Monterey Bay Meditation Studio</a>
-      <br /><a href="#top">Back to top of page</a>
+      Marianne's therapeutic approach is informed by the work and teachings of Don Beck, Thomas Berry, Pema Chodron, Decker Cunov, Earth and All Her Beings, Charles Eisenstein, Milton Erickson, Matthew Fox, Viktor Frankl, Howard Gardner, Daniel Goleman, Thich Nhat Hahn, Rick Hanson, Harville Hendrix, His Holiness the XIVth Dalai Lama, Carl Jung, Jon Kabat-Zinn, Byron Katie, Fr. Thomas Keating, Jack Kornfield, Elisabeth Kubler-Ross, Stephen Levine, Joanna Macy, Abraham Maslow, Caroline Myss, Carl Rogers, Theodore Roszak, Marshall Rosenberg, Selwa Said, Sharon Salzberg, Virginia Satir, Richard Schwartz, Martin Seligman, Francine Shapiro, Daniel Siegel, Brian Swimme, Eckhart Tolle, Carl Whitaker, & Ken Wilber, among others.
     </p>
 
   </Layout>

@@ -28,7 +28,7 @@ const FeesFormsAndInsurance = () => (
 </ul>
 
 <h2>Forms</h2>
-<p>There are several forms required before your first appointment. Please complete these forms and mail them to Marianne Rowe, PO Box 52089, Pacific Grove, CA 93950. </p>
+<p>There are several forms <i>required before your first appointment.</i> Please complete these forms and mail them to Marianne Rowe, PO Box 52089, Pacific Grove, CA 93950. </p>
 
 <p>
   If you will not be using Insurance Coverage/Benefits, please complete and mail the following 3 forms before your first appointment:
