@@ -1,13 +1,12 @@
 import * as React from "react"
 import { Link } from "gatsby"
 
-import ClientContactInformation from '../static/ClientContactInformation2021.pdf'
-import ClientInformationForm from '../static/ClientInformationForm2021.pdf'
-import ClientsRightsAndResponsibilities from '../static/ClientRightsAndResponsibilities2021.pdf'
+import ClientContactInformation from '../static/ClientContactInformation.pdf'
+import ClientInformationForm from '../static/ClientInformationForm.pdf'
+import ClientsRightsAndResponsibilities from '../static/ClientRightsAndResponsibilities.pdf'
 import HealthInsuranceClaimForm from '../static/HCFA_1500_claim_form.pdf'
-import InsuranceCoverageChecklist from '../static/InsuranceInformationChecklist2021.pdf'
-
-
+import InsuranceCoverageChecklist from '../static/InsuranceInformationChecklist.pdf'
+import ClientAgreementAndReleaseForm from '../static/ClientAgreementAndReleaseForm.pdf'
 import LiabilityReleaseOutdoorTherapySessions from '../static/liability_release_outdoor_therapy_sessions.pdf'
 
 import Layout from "../components/layout"
@@ -40,6 +39,7 @@ const FeesFormsAndInsurance = () => (
     <li>Client Information Form <a href={ClientInformationForm} download>Click to download pdf</a></li>
     <li>Client Contact Information <a href={ClientContactInformation} download>Click to download pdf</a></li>
     <li>Client Rights & Responsibilities <a href={ClientsRightsAndResponsibilities} download>Click to download pdf</a></li>
+    <li>Client Agreement & Release Form <a href={ClientAgreementAndReleaseForm} download>Click to download pdf</a></li>
    </ul>
 </p>
 
@@ -50,8 +50,10 @@ const FeesFormsAndInsurance = () => (
     <li>Client Information Form <a href={ClientInformationForm} download>Click to download pdf</a></li>
     <li>Client Contact Information <a href={ClientContactInformation} download>Click to download pdf</a></li>
     <li>Client Rights & Responsibilities <a href={ClientsRightsAndResponsibilities} download>Click to download pdf</a></li>
+    <li>Client Agreement & Release Form <a href={ClientAgreementAndReleaseForm} download>Click to download pdf</a></li>
     <li>Health Insurance Claim Form <a href={HealthInsuranceClaimForm} download>Click to download pdf</a></li>
     <li>Insurance Coverage Checklist <a href={InsuranceCoverageChecklist} download>Click to download pdf</a></li>
+
   </ul>
 </p>
 

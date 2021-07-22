@@ -32,11 +32,15 @@ const ServicesAndSpecialties = () => (
     <h2 id="counseling-services">Counseling Services</h2>
     <ul>
       <li>Individual Therapy with Adolescents & Adults (ages 12-80 years)</li>
-      <li>Mindfulness Meditation</li>
-      <li>Pre-marriage Counseling ~ Couples Therapy ~ Family Therapy</li>
+      <li>Couples Therapy</li>
+      <li>Family Therapy</li>
+      <li>Pre-marriage Counseling</li>
+      <li>Ecotherapy</li>
       <li>Grief Counseling</li>
+      <li>Mindfulness Meditation</li>
       <li>EMDR</li>
       <li>TFT</li>
+
       <a href="#top">Back to top of page</a>
     </ul>
 
@@ -107,6 +111,7 @@ const ServicesAndSpecialties = () => (
       <div class="container" />
       <a href="#top">Back to top of page</a>
 
+    <br />
     <br />
     <br />
 

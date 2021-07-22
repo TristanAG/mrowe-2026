@@ -20,12 +20,12 @@ const CoursesRetreatsAndSpecialEvents = () => (
           <li>Fierce Compassion: Setting Boundaries</li>
           <li>Peace from the Inside Out: Mindful Relationship with Anxiety, Depression and Anger</li>
           <li>Half-day, Day-long and Extended retreats (including Spiritual Activism, Cultivating Compassion, Awakening to Interbeing, and Coherence: Living Your Values)</li>
-          <li>Experiential Book Study Groups (including Choosing Earth, Revolutionary Love, and Caste)</li>
+          <li>Experiential Book Study Groups (including <i>Choosing Earth</i>, <i>Revolutionary Love</i>, and <i>Caste</i>)</li>
 
         </ul>
       </p>
 
-      <p>You can find a listing of Marianne’s current and upcoming offerings here: <a href="www.montereybaymeditation.com"> Monterey Bay Meditation Studio</a>.</p>
+      <p>You can find a listing of Marianne’s current and upcoming offerings here: <a href="https://www.montereybaymeditation.com"> Monterey Bay Meditation Studio</a>.</p>
 
       <p>Her intention in all of these offerings is to provide opportunities for learning, discussion, practice and creative expression, in service of evolving consciousness and deepening compassionate relationship with oneself, other humans, Earth, and all beings.</p>
 
