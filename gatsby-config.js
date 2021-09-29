@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `Marianne Rowe`,
-    description: `Marriage Counseling,Child Therapy,Family Therapy,Mindfulness Meditation
-      Instruction,in Monterey California`,
+    description: `Marriage Counseling, Child Therapy, Family Therapy, Climate-Informed Therapy, Climate-Informed Therapist, Mindfulness Meditation
+      Instruction, Monterey California`,
     author: `@tristangruener`,
     siteUrl: `http://www.mariannerowe.net/`,
   },

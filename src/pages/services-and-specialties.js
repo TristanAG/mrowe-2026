@@ -35,6 +35,7 @@ const ServicesAndSpecialties = () => (
       <li>Couples Therapy</li>
       <li>Family Therapy</li>
       <li>Pre-marriage Counseling</li>
+      <li>Climate-Informed Therapy</li>
       <li>Ecotherapy</li>
       <li>Grief Counseling</li>
       <li>Mindfulness Meditation</li>
