@@ -11,17 +11,17 @@ const IndexPage = () => (
     <h1>Welcome</h1>
 
 
-              <p class="tagline">
+              <p className="tagline">
                 Offering Psychotherapy in Monterey County, CA for Over 35 Years<br/>
               	Since 2020, all sessions are: Zoom, Phone, or Outdoors
               </p>
 
-              <p class="tagline"><i>"Nothing opens up the mind like
+              <p className="tagline"><i>"Nothing opens up the mind like
                 the glimpse of new possibility."</i><br />
                 John O'Donohue
               </p>
 
-              <p class="divider">~</p>
+              <p className="divider">~</p>
 
               <p>
                 Life can seem overwhelming at times. Feeling stressed,
@@ -32,14 +32,14 @@ const IndexPage = () => (
                 emerge in a person or relationship.
               </p>
 
-              <p class="tagline">
+              <p className="tagline">
                 <i>"And the day came that the risk to remain tight in a bud<br />
                   was more painful than the risk it took to blossom."</i>
                 <br />
                 Anais Nin
               </p>
 
-              <p class="divider">~</p>
+              <p className="divider">~</p>
 
               <p>
                 Psychotherapy is a process of two people consciously collaborating
@@ -52,13 +52,13 @@ const IndexPage = () => (
                 can be cultivated and sustained.
               </p>
 
-              <p class="tagline">
+              <p className="tagline">
                 <i>"Awareness is the greatest agent for change."</i>
                 <br />
                 Eckhart Tolle
               </p>
 
-              <p class="divider">~</p>
+              <p className="divider">~</p>
 
               <p>
                 Practical strategies that involve the body, mind and spirit are explored
@@ -72,7 +72,7 @@ const IndexPage = () => (
                 and kindness with oneself, a relationship that promotes healing emerges.
               </p>
 
-              <p class="tagline">
+              <p className="tagline">
                 <i>"I would love to live as the river flows,
                 carried by the surprise of its own becoming."</i>
                 <br />

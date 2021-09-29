@@ -90,26 +90,26 @@ const ServicesAndSpecialties = () => (
 
     <h2 id="clinical-orientation">Clinical Orientation</h2>
 
-      <div class="three columns">
+      <div className="three columns">
         <ul>
           <li>Transpersonal</li>
           <li>Family Systems</li>
         </ul>
       </div>
-      <div class="three columns">
+      <div className="three columns">
         <ul>
           <li>Interpersonal Neurobiology</li>
           <li>Contemplative</li>
           <li>Integral</li>
         </ul>
       </div>
-      <div class="three columns">
+      <div className="three columns">
         <ul>
           <li>Cognitive-Behavioral</li>
         </ul>
       </div>
 
-      <div class="container" />
+      <div className="container" />
       <a href="#top">Back to top of page</a>
 
     <br />
@@ -139,7 +139,7 @@ const ServicesAndSpecialties = () => (
     <p>
     The positive effects of mindfulness meditation and mindful awareness are cumulative -- the more consistent and sustained the practice and implementation of these qualities into daily life, the greater the benefits. Establishing a practice of finding a peacefulness within, rather than basing one's sense of well-being on external circumstances, is particularly relevant in times of transition and uncertainty.
     </p>
-    <p class="tagline"><i>
+    <p className="tagline"><i>
     "Mindfulness can become the single greatest source of equilibrium and clarity in your life."</i><br /> -- Daniel Siegel, MD (UCLA psychiatrist & expert in Interpersonal Neurobiology)
     </p>
     <p>

@@ -4,9 +4,9 @@ import { Link } from "gatsby"
 
 const Footer = ({ siteTitle }) => (
   <footer>
-    <div class="container">
-      <div class="row">
-        <div class="four columns ft" style={{"textAlign":"left"}}>
+    <div className="container">
+      <div className="row">
+        <div className="four columns ft" style={{"textAlign":"left"}}>
           Marianne B. Rowe, MS
           <br />
           CA Lic. # MFC 22067<br />
@@ -14,21 +14,21 @@ const Footer = ({ siteTitle }) => (
           <br />
 
         </div>
-        <div class="three columns ft" style={{"textAlign":"left"}}>
+        <div className="three columns ft" style={{"textAlign":"left"}}>
           PO Box 52089
           <br />
           Pacific Grove CA 93950
         </div>
 
-        <div class="five columns last">
+        <div className="five columns last">
 
           Marianne is a Founding Teacher of <br /><a href="http://montereybaymeditation.com" target="_none">Monterey Bay Meditation Studio</a>
 
         </div>
       </div>
-      <div class="row">
-        <p class="notice">The information on this website is intended for educational purposes only. It is not a substitute for professional care.</p>
-        <p class="notice">Please note: All of Marianne’s therapy and meditation sessions, workshops, retreats, and Forest Bathing experiences are held on Zoom, the telephone, or outdoors. Most outdoor sessions are held in Pacific Grove, CA. Other locations may be available by special arrangement</p>
+      <div className="row">
+        <p className="notice">The information on this website is intended for educational purposes only. It is not a substitute for professional care.</p>
+        <p className="notice">Please note: All of Marianne’s therapy and meditation sessions, workshops, retreats, and Forest Bathing experiences are held on Zoom, the telephone, or outdoors. Most outdoor sessions are held in Pacific Grove, CA. Other locations may be available by special arrangement</p>
 
       </div>
     </div>

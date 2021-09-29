@@ -33,12 +33,12 @@ const Layout = ({ children }) => {
       <Header siteTitle={data.site.siteMetadata?.title || `Title`} />
 
       <main>
-        <div class="container">
-          <div class="row">
-            <div class="three columns">
+        <div className="container">
+          <div className="row">
+            <div className="three columns">
               <Nav />
             </div>
-            <div class="nine columns">
+            <div className="nine columns">
               <article>
                 {children}
               </article>
