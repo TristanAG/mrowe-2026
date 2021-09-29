@@ -12,7 +12,6 @@ const Footer = ({ siteTitle }) => (
           CA Lic. # MFC 22067<br />
           <a href="tel:8313731017">(831) 373-1017</a>
           <br />
-          {console.log('test123')}
 
         </div>
         <div class="three columns ft" style={{"textAlign":"left"}}>
